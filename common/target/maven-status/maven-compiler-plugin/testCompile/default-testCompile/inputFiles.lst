@@ -1,0 +1,12 @@
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\message\MessageDecoderTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\message\MessageTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\RemotingUtilTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\MessageEncodeDecodeTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\MQVersionTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\BrokerConfigTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\MessageBatchTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\protocol\ConsumeStatusTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\filter\FilterAPITest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\MixAllTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\DataVersionTest.java
+D:\work\incubator-rocketmq\common\src\test\java\org\apache\rocketmq\common\UtilAllTest.java

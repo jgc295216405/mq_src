@@ -1,0 +1,13 @@
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\ValidatorsTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\producer\selector\SelectMessageQueueByHashTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\consumer\DefaultMQPushConsumerTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\common\ThreadLocalIndexTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\impl\MQClientAPIImplTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\consumer\store\LocalFileOffsetStoreTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\log\ClientLoggerTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\consumer\rebalance\AllocateMessageQueueConsitentHashTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\impl\factory\MQClientInstanceTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\latency\LatencyFaultToleranceImplTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\consumer\store\RemoteBrokerOffsetStoreTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\consumer\DefaultMQPullConsumerTest.java
+D:\work\incubator-rocketmq\client\src\test\java\org\apache\rocketmq\client\producer\DefaultMQProducerTest.java
